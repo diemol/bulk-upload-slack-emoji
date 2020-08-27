@@ -1,3 +1,8 @@
+### Quick script using Selenium WebDriver that uploads emojis to a Slack workspace 
+
+Before running the script, you should configure Chrome and ChromeDriver to execute the WebDriver script.
+More information can be seen here: http://chromedriver.chromium.org/getting-started
+
 
 1. Go to a page like https://slackmojis.com/, and download the ones you'd like into a separate directory.
 1. Set the following environment variables:
